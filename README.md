@@ -93,6 +93,8 @@ Or run `Main.java` directly from your IDE (e.g. NetBeans, IntelliJ IDEA, or VS C
 
 This project was built in 2024 as part of my second-year coursework to practice Java, object-oriented design, and building GUI applications with Swing.
 
+Development Note: This project was implemented independently, without AI-assisted code generation.
+
 ## License
 
 No license specified.
